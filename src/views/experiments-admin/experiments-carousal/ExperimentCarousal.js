@@ -116,7 +116,7 @@ const ExperimentCarousal = () => {
                   <CTableDataCell className="text-start">{item.name}</CTableDataCell>
                   <CTableDataCell className="text-start">{item.url}</CTableDataCell>
                   <CTableDataCell className="text-start">{item.isDisable ? 
-                  <><span className="dot-red"></span> &nbsp; Disable</>: 
+                  <><span className="dot-red"></span> &nbsp; Disabled</>: 
                   item.isResponse ? <><span className="dot-green"></span> &nbsp; Submitted</> :
                   <><span className="dot-red"></span> &nbsp; No Response</>
                   }</CTableDataCell>

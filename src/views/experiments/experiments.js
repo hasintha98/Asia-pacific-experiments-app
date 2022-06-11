@@ -64,7 +64,7 @@ const Experiments = (props) => {
                 <h1 id='ex-head'>
                     {selectedExperiment && selectedExperiment.name} Experiment Survey Form
                 </h1 >
-                <h2 id="ex-subheading">Thank you</h2>
+                <h2 id="ex-subheading">Please complete the below fields</h2>
             </div>
             <form onSubmit={handleSubmit} id="ex-form">
                 <div id='ex-content'>

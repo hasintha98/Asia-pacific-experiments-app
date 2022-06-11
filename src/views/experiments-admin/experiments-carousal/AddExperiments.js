@@ -286,7 +286,7 @@ const AddExperiment = () => {
 
                                     /> : null}
                                     {selectedTypes == 'Multi-line text' ?
-                                        <CFormTextarea
+                                        <CFormInput
                                             id="inputState"
                                             placeholder="Custom question"
                                             name="question"
