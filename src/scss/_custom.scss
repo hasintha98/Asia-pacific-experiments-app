@@ -1,0 +1,189 @@
+// Here you can add other styles
+body {
+    font-size: 14px;
+}
+
+.form,
+.form-select,
+.form-control {
+    font-size: 14px;
+}
+
+.logo {
+    height: 60px;
+}
+
+.experiment-icons {
+    cursor: pointer;
+    height: 16px;
+}
+
+
+.addNewBtn,
+.deleteModalBtn,
+.doneModalBtn {
+    background-color: #C40D42;
+    font-weight: bold;
+}
+
+.orangeModalBtn {
+    background-color: #F47A20;
+    font-weight: bold;
+}
+
+.orangeCancelModalBtn {
+    font-weight: bold;
+    color: #F47A20;
+    border-color: #F47A20;
+}
+
+.canceleModalBtn {
+    font-weight: bold;
+    color: #C40D42;
+    border-color: #C40D42;
+}
+
+.deleteIcon {
+    cursor: pointer;
+    color: #E80000;
+}
+
+.editIcon {
+    cursor: pointer;
+    color: #004DB7;
+}
+
+
+
+
+.form-check-input:checked {
+    background-color: #C40D42;
+}
+
+
+
+@media only screen and (max-width: 991px) {
+    .previewColoumn {
+        margin-top: 2rem;
+    }
+}
+
+
+
+.success_icon {
+    color: #56AC00;
+    width: 100%;
+
+
+}
+
+.model_footer {
+    display: flex;
+    align-items: center;
+}
+
+.doneBtn {
+    background-color: #C40D42;
+    font-weight: bold;
+    color: white;
+    align-items: center;
+}
+
+
+.model_body {
+    text-align: center;
+
+    h2 {
+        color: #56AC00;
+    }
+}
+
+
+
+
+
+@media only screen and (max-width: 1270px) and (min-width: 991px) {
+    .ctaButtonpreview {
+        top: 34%;
+        right: 14%;
+    }
+}
+
+a {
+    color: #C40D42;
+    color: var(--cui-link-color, #C40D42);
+    text-decoration: none;
+}
+
+a:hover {
+    color: #C40D42;
+    color: var(--cui-link-color, #C40D42);
+}
+
+.activeToggle :checked {
+    background-color: #56AC00;
+}
+
+.successText {
+    color: #56AC00;
+}
+
+.successIcon {
+    color: #56AC00;
+}
+
+.staticIcon {
+    color: #56AC00;
+    padding-bottom: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.dot {
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: #606977;
+
+}
+
+.dot-green {
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: green;
+
+
+}
+
+.dot-red {
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: #C40D42;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+

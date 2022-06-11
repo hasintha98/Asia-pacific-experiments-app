@@ -1,0 +1,111 @@
+body {
+    background-image: url(../assets/images/back.webp);
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+}
+
+.ex-heading {
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    margin-top: 100px;
+
+}
+
+
+
+#ex-head {
+    font-size: 1.8em;
+    color: #fff;
+}
+
+#ex-subheading {
+    font-size: 18px;
+    margin-top: 10px;
+    color: #fff;
+}
+
+#content1 {
+    width: 90%;
+    margin:auto;
+
+}
+
+#ex-form {
+    background-color: rgba(15, 15, 15, 0.7);
+    padding-top: 34px;
+    display: flex;
+    justify-content: center;
+    width: 54%;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 10px;
+    padding-bottom: 60px;
+    padding: 2%;
+}
+
+#ex-form .ex-box {
+    width: 98.5%;
+    height: 2.8em;
+    position: relative;
+    bottom: 10px;
+    border: 0;
+    border-radius: 5px;
+    padding: 2%;
+}  
+
+#ex-form textarea {
+    width: 98.5%;
+    height: 8em;
+    position: relative;
+    bottom: 10px;
+    border: 0;
+    border-radius: 5px;
+    padding-left: 1%;
+}
+
+#ex-form label {
+    margin: 2%;
+    font-weight: 500;
+    font-size: large;
+    color: #fff;
+}
+
+#option1 select{
+    width: 98.5%;
+    height: 2.7em;
+    position: relative;
+    bottom: 10px;
+    border-radius: 5px;
+    border: 0;
+    padding-left: 2%;
+
+}
+
+.ex-button {
+    width: 98.5%;
+    height: 3em;
+    position: relative;
+    top: 11px;
+    background-color: rgb(18,219,78);
+    border: none;
+    color: rgb(255, 255, 2555);
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.ex-success-icon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+   
+}
+
+.ex-success-container {
+    text-align: center;
+    width: 100%;
+    margin: auto;
+
+}
