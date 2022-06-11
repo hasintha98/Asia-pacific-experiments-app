@@ -1,7 +1,7 @@
 # Asia-pacific-experiments-app
 
 ## #1 -> Run the server
-* Open terminal from the root folder
+* Open terminal from the project root folder
 * Run below commands one by one
 ```
 cd ./experiment-api
@@ -12,7 +12,7 @@ npm start
 
 
 ## #2 -> Run the application
-* Open terminal from the root folder
+* Open terminal from the project root folder
 * Run below commands one by one
 ```
 npm install --save --force
