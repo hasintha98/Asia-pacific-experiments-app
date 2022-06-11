@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 import 'dotenv/config';
 
 export const ALERT_TYPE = {
@@ -17,8 +16,7 @@ export const METHOD = {
   PUT: 'put'
 }
 
-// export const MAIN_URL = "http://178.128.53.188:3000"
-export const MAIN_URL = process.env.REACT_APP_API_URL
+export const MAIN_URL = "http://localhost:4000"
 
 export const API_URL = {
 
