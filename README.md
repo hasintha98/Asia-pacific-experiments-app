@@ -8,8 +8,7 @@ cd ./experiment-api
 npm install
 npm start
 ```
-* Server will be run on http://localhost:4000
-
+* Server will be running on port 4000
 
 ## #2 -> Run the application
 * Open terminal from the project root folder
