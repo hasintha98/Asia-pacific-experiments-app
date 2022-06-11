@@ -20,4 +20,8 @@ npm start
 ```
 * Open web browser and navigate to http://localhost:3000/experiments
 
+### Please go through the full video of the assessment: 
+[Click here](https://drive.google.com/file/d/1qKuEWxODHUZghYs8BLePZl64R2BS-BXT/view?usp=sharing).
+
 Hasintha Doluweera - Fullstack Engineer Tech Test
+
